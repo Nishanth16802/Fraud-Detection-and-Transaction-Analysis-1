@@ -1,0 +1,11 @@
+Transaction_ID,Customer_ID,Transaction_Type,Amount,Location,Transaction_Status,Fraud_Flag,fraud rate
+T001,C101,UPI,1500,Chennai,Success,0,0.4
+T002,C102,Credit Card,25000,Coimbatore,Success,1,0.444444444
+T003,C103,Bank Transfer,5000,Madurai,Success,0,0.375
+T004,C104,UPI,45000,Bengaluru,Success,1,0.428571429
+T005,C105,Debit Card,2000,Chennai,Success,0,0.333333333
+T006,C106,Credit Card,35000,Mumbai,Success,1,0.4
+T007,C107,UPI,800,Coimbatore,Success,0,0.25
+T008,C108,Bank Transfer,15000,Chennai,Success,0,0.333333333
+T009,C109,Debit Card,40000,Delhi,Success,1,0.5
+T010,C110,UPI,1200,Madurai,Success,0,0
